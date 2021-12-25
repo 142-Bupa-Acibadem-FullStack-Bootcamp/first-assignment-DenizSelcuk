@@ -8,9 +8,10 @@ namespace Northwind.Dal.Abstract
 {
     public interface IUnitOfWork : IDisposable
     {
-        // repository eklenecek
+        //------------repository patt.
+
         bool BeginTransaction();
-        bool RoolBackTransaction();
+        bool RollBackTransaction();
         int SaveChanges();
     }
 }

@@ -8,20 +8,16 @@ using System.Threading.Tasks;
 
 namespace Northwind.Dal.Abstract
 {
-    public interface GenericRepository<T ,TDto> where T: IEntityBase
+    public interface IGenericRepository<T> where T : IEntityBase
     {
-        List<TDto> GetAll();
-        List<TDto> GetAll(Expression<Func<T, bool>> expression);
-        List<TDto> Find(int id);
-        IQueryable<T> GetIQueryable();
-        TDto Add(TDto item);
-        Task<TDto> AddAsync(TDto item);
-        TDto Update(TDto item);
-        Task<TDto> UpdateAsync(TDto item);
-        bool Delete(TDto item);
-        bool DeleteById(int id);
-        Task<bool> DeleteByIdAsync(int id);
-        Task<bool> DeleteAsync(TDto item);
+        T Add(T entity);
+        T Update(T entity);
+        T Find(int id);
+        List<T> GetAll();
+        IQueryable<T> GetAll(Expression<Func<T, bool>> expression);
+        bool Delete(int id);
+        bool Delete(T entity);
 
+        //include dahil edilir getall metod yapısı
     }
 }
