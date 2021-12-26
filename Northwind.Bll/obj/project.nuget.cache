@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "49NZRNCP4hJX5rSV5yn4yYp4PE0snFMZjhZRSGCfYeDJ+QNUMFej2P6B+vIUECLjcWlr2HA3up1im0SShZzOuQ==",
+  "dgSpecHash": "7jFppvvxxTuQ1UTXN8bf/CoiTmxi+JMGyuhL5pM3sSHrCx68sqXkwi9qS4dUiLl0GLP+9WPPb7wqNIx3imldVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj",
+  "projectFilePath": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

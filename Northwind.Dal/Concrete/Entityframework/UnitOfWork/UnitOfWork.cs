@@ -19,7 +19,7 @@ namespace Northwind.Dal.Concrete.Entityframework.UnitOfWork
             throw new NotImplementedException();
         }
 
-        public bool RollBackTransaction()
+        public bool RoolBackTransaction()
         {
             throw new NotImplementedException();
         }

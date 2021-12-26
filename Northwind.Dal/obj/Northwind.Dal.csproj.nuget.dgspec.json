@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj": {}
+    "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj": {
+    "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj",
+        "projectUniqueName": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj",
         "projectName": "Northwind.Dal",
-        "projectPath": "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj",
+        "projectPath": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj",
         "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Dal\\obj\\",
+        "outputPath": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Dal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj": {
-                "projectPath": "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj"
+              "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj": {
+                "projectPath": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj": {
+    "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj",
         "projectName": "Northwind.Entity",
-        "projectPath": "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj",
+        "projectPath": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj",
         "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Entity\\obj\\",
+        "outputPath": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj",
+      "projectUniqueName": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj",
       "projectName": "Northwind.Bll",
-      "projectPath": "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj",
+      "projectPath": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj",
       "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deniz\\OneDrive\\Northwind\\Northwind.Bll\\obj\\",
+      "outputPath": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Bll\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",

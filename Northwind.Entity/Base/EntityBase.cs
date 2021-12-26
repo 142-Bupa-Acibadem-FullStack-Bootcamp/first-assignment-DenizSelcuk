@@ -9,5 +9,6 @@ namespace Northwind.Entity.Base
 {
     public class EntityBase : IEntityBase
     {
+
     }
 }
