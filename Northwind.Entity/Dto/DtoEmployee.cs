@@ -1,12 +1,9 @@
 ﻿using Northwind.Entity.Base;
 using System;
-using System.Collections.Generic;
 
-#nullable disable
-
-namespace Northwind.Entity.Dto
+namespace Northwind.Entity.Mapper
 {
-    public partial class DtoEmployee : DtoBase
+    internal class DtoEmployee :DtoBase
     {
         public DtoEmployee()
         {
@@ -30,7 +27,6 @@ namespace Northwind.Entity.Dto
         public string Notes { get; set; }
         public int? ReportsTo { get; set; }
         public string PhotoPath { get; set; }
-
 
     }
 }

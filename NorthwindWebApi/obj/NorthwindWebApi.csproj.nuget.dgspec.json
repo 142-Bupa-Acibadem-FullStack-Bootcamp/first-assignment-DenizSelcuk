@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\NorthwindWebApi\\NorthwindWebApi.csproj": {}
+    "C:\\Users\\deniz\\Desktop\\first-assignment-DenizSelcuk\\NorthwindWebApi\\NorthwindWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\NorthwindWebApi\\NorthwindWebApi.csproj": {
+    "C:\\Users\\deniz\\Desktop\\first-assignment-DenizSelcuk\\NorthwindWebApi\\NorthwindWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\NorthwindWebApi\\NorthwindWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\deniz\\Desktop\\first-assignment-DenizSelcuk\\NorthwindWebApi\\NorthwindWebApi.csproj",
         "projectName": "NorthwindWebApi",
-        "projectPath": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\NorthwindWebApi\\NorthwindWebApi.csproj",
+        "projectPath": "C:\\Users\\deniz\\Desktop\\first-assignment-DenizSelcuk\\NorthwindWebApi\\NorthwindWebApi.csproj",
         "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\NorthwindWebApi\\obj\\",
+        "outputPath": "C:\\Users\\deniz\\Desktop\\first-assignment-DenizSelcuk\\NorthwindWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",

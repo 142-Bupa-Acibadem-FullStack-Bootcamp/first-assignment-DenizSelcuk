@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O9FM8UZvlk4fubKk4iyMzU0j2z3BX5YUNmXPnjXq5hSG4I/qzlbzGAdfDYPzdyIrZLmW0IFqklZKBQUkqiAAwA==",
+  "dgSpecHash": "5DgYBi0297UjUAsHT7X16fCQZP4Cr/bSklptqDv0bQougvMVvA3nR0kfQXH0lQXLkg4mlfFL+yQDt9qw3J2Ysg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\deniz\\OneDrive\\Bootcamp\\Project\\Northwind\\Northwind.Interface\\Northwind.Interface.csproj",
+  "projectFilePath": "C:\\Users\\deniz\\Desktop\\first-assignment-DenizSelcuk\\Northwind.Interface\\Northwind.Interface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\deniz\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\deniz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
